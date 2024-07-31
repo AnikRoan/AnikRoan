@@ -26,8 +26,7 @@ I'm a Java Developer passionate about coding and developing high-quality softwar
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
 </p>
 
-## GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikRoan&show_icons=true&theme=radical)
+
 
 
 
