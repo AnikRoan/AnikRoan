@@ -4,7 +4,7 @@
 I'm a Java Developer passionate about coding and developing high-quality software. I have experience working with various technologies and tools, and I'm always eager to learn more.
 
 ## Skills
-- **Programming Languages:** Java
+- **Programming Language:** Java
 - **Technologies:**
 
 <p>
