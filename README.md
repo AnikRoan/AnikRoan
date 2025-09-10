@@ -1,10 +1,10 @@
-# Hi there! I'm [Anna Padun] 👋
+# Hi there! I'm Anna Padun 👋
 
 ## About Me
-I'm a Java Developer passionate about coding and developing high-quality software. I have experience working with various technologies and tools, and I'm always eager to learn more.
+I'm a Software Developer passionate about coding and developing high-quality software. I have experience working with various technologies and tools, and I'm always eager to learn more.
 
 ## Skills
-- **Programming Language:** Java
+- **Programming Languages:** Java, Python
 - **Technologies:**
 
 <p>
