@@ -1,7 +1,11 @@
 # Hi there! I'm Anna Padun 👋
 
 ## About Me
-I'm a Software Developer passionate about coding and developing high-quality software. I have experience working with various technologies and tools, and I'm always eager to learn more.
+Junior Software Developer with a backend focus and hands-on experience in Java and Spring Boot. I am transitioning into IT through self-study, practical projects, and real-world experience in internal application development.
+
+I have worked on backend features, REST APIs, database modeling, and API integrations, and I am comfortable working with Git, Docker, and SQL databases (PostgreSQL, MySQL). I also have experience collaborating in remote, international teams and contributing to shared codebases.
+
+Currently, I am looking for an opportunity to grow as a software developer, preferably through a junior position or an apprenticeship (Ausbildung) in application development, where I can continue learning best practices, clean code, and professional software engineering workflows.
 
 ## Skills
 - **Programming Languages:** Java, Python
